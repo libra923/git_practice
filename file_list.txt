@@ -1,0 +1,15 @@
+total 0
+drwxr-xr-x 1 tjdwo 197609 0 Oct  4 19:04 OSS_1_1/
+drwxr-xr-x 1 tjdwo 197609 0 Oct  4 19:05 OSS_1_2/
+drwxr-xr-x 1 tjdwo 197609 0 Oct  4 19:38 OSS_3in1/
+-rw-r--r-- 1 tjdwo 197609 0 Oct  4 19:28 backup_module.txt
+-rw-r--r-- 1 tjdwo 197609 0 Oct  4 20:42 file_list.txt
+-rw-r--r-- 1 tjdwo 197609 0 Oct  4 19:27 original.txt
+total 1.0K
+drwxr-xr-x 1 tjdwo 197609   0 Oct  4 19:04 OSS_1_1/
+drwxr-xr-x 1 tjdwo 197609   0 Oct  4 19:05 OSS_1_2/
+drwxr-xr-x 1 tjdwo 197609   0 Oct  4 19:38 OSS_3in1/
+-rw-r--r-- 1 tjdwo 197609   0 Oct  4 19:28 backup_module.txt
+-rw-r--r-- 1 tjdwo 197609 327 Oct  4 20:42 file_list.txt
+-rw-r--r-- 1 tjdwo 197609   0 Oct  4 20:44 newone.docx
+-rw-r--r-- 1 tjdwo 197609   0 Oct  4 19:27 original.txt
